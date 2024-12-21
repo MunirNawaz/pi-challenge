@@ -1,3 +1,5 @@
+[[image:http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=pi-challenge&build=2>>http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/job/pi-challenge/2/||target='__new']]
+
 # 03_05 Challenge Connect Jenkins to GitHub
 
 You're on a team developing an algorithm that calculates the value of pi.
