@@ -1,4 +1,4 @@
-[[image:http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=pi-challenge&build=2>>http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/job/pi-challenge/2/||target='__new']]
+[![Build Status](http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=pi-challenge)](http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/job/pi-challenge/)
 
 # 03_05 Challenge Connect Jenkins to GitHub
 
